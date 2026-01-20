@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Colyn
 
-🎮 **Mobile Game QA Tester / Data Labeler**  
+🎮 **Game QA Tester**  
 🔍 Strong focus on **visual quality, UI/UX clarity, and gameplay consistency**
 
 
@@ -13,8 +13,10 @@
 
 ## 🛠 Skills
 - Mobile Game QA (Android & iOS)
+- Console and PC Game QA (PS4, PC)
 - Visual & UX Evaluation
-- Bug Reporting & Reproduction Steps
+- Unity In-editor
+- Bug Reporting & Reproduction Steps (Jira, Trello, MAntis)
 - Data Labeling & Categorization
 - Attention to Detail & Consistency
 
@@ -30,4 +32,4 @@
 - Mobile: Android / iOS
 
 
-📫 Open to **part-time remote QA / data labeling roles**
+📫 Open to **Full time or part-time remote QA **
