@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nycs
+# 👋 Hi, I’m Colyn
 
 🎮 **Mobile Game QA Tester / Data Labeler**  
 🔍 Strong focus on **visual quality, UI/UX clarity, and gameplay consistency**
