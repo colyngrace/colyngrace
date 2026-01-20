@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Nycs
 
-<!--
-**colyngrace/colyngrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Mobile Game QA Tester / Data Labeler**  
+🔍 Strong focus on **visual quality, UI/UX clarity, and gameplay consistency**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- Test mobile games for visual, UI, UX, and gameplay issues
+- Identify subtle inconsistencies in layouts, animations, and interactions
+- Write clear, structured bug reports and feedback
+- Label gameplay data and UI elements for AI training
+
+---
+
+## 🛠 Skills
+- Mobile Game QA (Android & iOS)
+- Visual & UX Evaluation
+- Bug Reporting & Reproduction Steps
+- Data Labeling & Categorization
+- Attention to Detail & Consistency
+
+---
+
+## 📂 Sample Work
+- 🎮 **Mobile Game QA Samples** → See repositories below  
+- 🧪 **Bug Reports & UX Reviews** → Structured and design-focused  
+- 🏷 **Data Labeling Examples** → Consistent tagging & categorization
+
+---
+
+## 📱 Devices
+- PC: Windows (16GB RAM)
+- Mobile: Android / iOS
+
+---
+
+📫 Open to **part-time remote QA / data labeling roles**
